@@ -1,0 +1,24 @@
+{
+  "name": "solidity-browser-compiler",
+  "version": "1.0.1",
+  "description": "Package for compiling solidity code in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tech-Claw/_solidity-browser-compiler.git"
+  },
+  "keywords": [
+    "solidity",
+    "browser",
+    "compiler"
+  ],
+  "author": "Nikola Bozin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tech-Claw/_solidity-browser-compiler/issues"
+  },
+  "homepage": "https://github.com/Tech-Claw/_solidity-browser-compiler#readme"
+}
