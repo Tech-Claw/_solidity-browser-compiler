@@ -1,6 +1,6 @@
 {
   "name": "solidity-browser-compiler",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Package for compiling solidity code in the browser.",
   "main": "index.js",
   "scripts": {

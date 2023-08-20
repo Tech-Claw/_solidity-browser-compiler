@@ -1,4 +1,5 @@
-This is how to use: 
+This is example how to use: 
+
 
 ```javascript
 import React from 'react'
@@ -47,3 +48,8 @@ const Homepage = () => {
 }
 
 export default Homepage
+```
+
+abi, evm, metadata, storage layout is found in: 
+`result.contracts.Compiled_Contracts.<YOUR_CONTRACT_NAME>.The thing you need`   
+incase there is an error, result will contain two entries: `result.errors` and `result.sources`
